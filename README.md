@@ -66,6 +66,7 @@ int main(){
 ```
 <strong> Output: </strong>
 <br>
+![image](https://github.com/user-attachments/assets/5a34f3d2-ca77-4447-b985-1d3a275536fb)
 
 ## Program 2:  Insertion Sort
 <strong> Code: </strong>
@@ -89,7 +90,7 @@ void insertionsort(int arr[], int n){
     }
 }
 int main(){
-    int arr[] = {64, 25, 12, 22, 11};
+    int arr[] = {45, 39, 23, 67, 18};
     int n = sizeof(arr) / sizeof(arr[0]);
     cout << "Original array: ";
     for (int i = 0; i < n; i++){
@@ -106,6 +107,7 @@ int main(){
 ```
 <strong> Output: </strong>
 <br>
+![image](https://github.com/user-attachments/assets/6c357a2e-fec5-4e47-b910-9917d5a2bdbf)
 
 ## Program 3: Bubble Sort
 <strong> Code: </strong>
@@ -156,7 +158,7 @@ int main(){
 ```
 <strong> Output: </strong>
 <br>
-
+![image](https://github.com/user-attachments/assets/d83f7605-06f9-473c-b75c-0141c22de2ea)
 
 ## Conclusion:
 We learned to implement three sorting and they are Selection Sort, Insertion Sort, and Bubble Sort and understand their operational principles. 
